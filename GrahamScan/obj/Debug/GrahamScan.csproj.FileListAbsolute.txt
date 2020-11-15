@@ -1,0 +1,7 @@
+C:\Users\alexandra\source\repos\GrahamScan\GrahamScan\bin\Debug\GrahamScan.exe.config
+C:\Users\alexandra\source\repos\GrahamScan\GrahamScan\bin\Debug\GrahamScan.exe
+C:\Users\alexandra\source\repos\GrahamScan\GrahamScan\bin\Debug\GrahamScan.pdb
+C:\Users\alexandra\source\repos\GrahamScan\GrahamScan\obj\Debug\GrahamScan.csprojResolveAssemblyReference.cache
+C:\Users\alexandra\source\repos\GrahamScan\GrahamScan\obj\Debug\GrahamScan.csproj.CoreCompileInputs.cache
+C:\Users\alexandra\source\repos\GrahamScan\GrahamScan\obj\Debug\GrahamScan.exe
+C:\Users\alexandra\source\repos\GrahamScan\GrahamScan\obj\Debug\GrahamScan.pdb
